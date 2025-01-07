@@ -1,4 +1,4 @@
-# 💻 Lakshay Kumar
+# 🛡️ Lakshay Kumar 🔐
 
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="GitHub Banner" style="height:500px; width:1000px;" />
 
@@ -11,15 +11,14 @@
 
 ## ⚓ Interests
 
-- **Cybersecurity:** Passionate about network security, ethical hacking, and intrusion detection.
+- **Cybersecurity:** Passionate about network security, Web Security, ethical hacking, and Blue Teaming.
 - **Network Security:** Analyzing and securing network traffic to prevent unauthorized access.
 - **Web Security:** Strengthening web applications by identifying vulnerabilities and implementing defense mechanisms.
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, HTML, CSS, SQL  
-- **Tools:** Kali Linux, Nmap, Wireshark, Metasploit, Git, Burp Suite  
-- **Databases:** MySQL, SQLite  
+- **Tools:** Kali Linux, Nmap, Wireshark, Metasploit, Hydra, Burp Suite   
 
 ## 🌱 Currently Learning
 

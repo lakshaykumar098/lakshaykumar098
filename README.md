@@ -1,6 +1,6 @@
 # 💻 Lakshay Kumar
 
-![GitHub Banner](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="GitHub Banner" width="50%" />
 
 ## 🏴‍☠️ About Me
 
@@ -27,20 +27,6 @@
 - Cybersecurity strategies and real-world case studies
 - Offensive and defensive security measures, including attack and countermeasures
 - Advanced networking concepts, including packet analysis and threat hunting
-
-## 🏴‍☠️ Projects
-
-- **N-Guard**  
-  A robust Python-based Intrusion Detection and Prevention System (IDS/IPS) designed to monitor, detect, and respond to malicious activities within your network.  
-  [Explore N-Guard](https://github.com/lakshaykumar098/N-Guard)
-
-- **Re-Kon-Scanner**  
-  A comprehensive reconnaissance toolkit for cybersecurity professionals and enthusiasts, integrating various functionalities for efficient information gathering and vulnerability assessment.  
-  [Discover Re-Kon-Scanner](https://github.com/lakshaykumar098/Re-Kon-Scanner)
-
-- **RealEstate Magma**  
-  A responsive web application showcasing interactive UI/UX using HTML, CSS, and JavaScript.  
-  [Check out RealEstate Magma](https://github.com/lakshaykumar098/RealEstate-project)
 
 ## 🏆 Certifications
 

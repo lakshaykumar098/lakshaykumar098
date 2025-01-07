@@ -1,6 +1,6 @@
 # 🛡️ Lakshay Kumar 🔐
 
-<img src="https://cyber-reports.com/wp-content/uploads/2022/02/GitHub-headpic.jpg" alt="GitHub Banner" style="height:500px; width:1000px;" />
+<img src="https://cyber-reports.com/wp-content/uploads/2022/02/GitHub-headpic.jpg" alt="GitHub Banner" style="height:400px; width:1000px;" />
 
 ## 🏴‍☠️ About Me
 

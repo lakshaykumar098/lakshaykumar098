@@ -1,6 +1,6 @@
 # 🛡️ Lakshay Kumar 🔐
 
-<img src="https://avatars.githubusercontent.com/u/121855005?v=4" alt="GitHub Banner" style="height:400px; width:1000px;" />
+<img src="https://avatars.githubusercontent.com/u/121855005?v=4" alt="GitHub Banner" style="height:500px; width:800px;" />
 
 ## 🏴‍☠️ About Me
 

@@ -17,7 +17,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, HTML, CSS, SQL  
+- **Languages:** Python, JavaScript, HTML, CSS, Powershell  
 - **Tools:** Kali Linux, Nmap, Wireshark, Metasploit, Hydra, Burp Suite   
 
 ## 🌱 Currently Learning
